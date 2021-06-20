@@ -22,10 +22,10 @@ class UserSeeder extends Seeder
             'email' => 'admin@test.com',
             'username' => 'admin',
             'password'  => bcrypt('admin'),
-            'hp' => '087863216757',
-            'foto' => 'cropped-new-Logo-Undiksha.png',
-            'alamat' => 'Singaraja',
-            'telegram_id' => '956802666',
+            'hp' => '087xx',
+            'foto' => 'logo.png',
+            'alamat' => 'Indonesia',
+            'telegram_id' => '0000000000',
         ]);
     }
 }
